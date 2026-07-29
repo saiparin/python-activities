@@ -1,0 +1,5 @@
+print("i wake up at 10 am")
+print("i watch tv till 1 pm")
+print("i eat lunch at 1 pm")
+print("i watch my phone till 8pm")
+print("i sleep at 11pm")
