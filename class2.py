@@ -1,0 +1,5 @@
+print("hi how are you doing?")
+print(7)
+print("i am doing good",5)
+print("where are you?\n" )
+print("i am in india",end= "*")
